@@ -6,9 +6,9 @@ This algoritms will be done with javascript and typescript.
 
 Feel free to use this repo for studying some algorithms.
 
-##Install 
+#Install 
 
 ```
-ts-node example.ts
+ts-node [path_to_example]
 ```
 
