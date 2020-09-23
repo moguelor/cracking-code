@@ -1,6 +1,8 @@
 /**
  * Example 3, Pag 46.
  * Calculate the compexity about the algoritm.
+ * 
+ * O(n^2)
  */
 
 const printUnOrderedPairs = (data: number[][] = []) => {
